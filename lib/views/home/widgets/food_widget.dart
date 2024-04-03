@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_multi_vendor/common/app_style.dart';
 import 'package:flutter_multi_vendor/common/reusable_text.dart';
 import 'package:flutter_multi_vendor/constants/constants.dart';
-import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class FoodWidget extends StatelessWidget {

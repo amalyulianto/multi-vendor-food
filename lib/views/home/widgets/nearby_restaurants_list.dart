@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:flutter_multi_vendor/constants/constants.dart';
 import 'package:flutter_multi_vendor/constants/uidata.dart';

@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget {
                   );
                 },
               ),
-              NearbyRestaurantsList(),
+              const NearbyRestaurantsList(),
               Heading(
                 text: "Try Something New",
                 onTap: () {
@@ -49,7 +49,7 @@ class HomePage extends StatelessWidget {
                   );
                 },
               ),
-              FoodsList(),
+              const FoodsList(),
               Heading(
                 text: "Food Closer To You",
                 onTap: () {
@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                   );
                 },
               ),
-              FoodsList(),
+              const FoodsList(),
             ],
           ),
         ),
